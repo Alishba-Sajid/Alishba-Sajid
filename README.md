@@ -1,6 +1,4 @@
-## Hi there 👋
-
-I am Alishba Sajid
+## Hi there 👋, I am Alishba Sajid
 
 ### 🎓 Software Engineering Student | 💻 Full-Stack Developer | 🌐 Tech Explorer
 
