@@ -30,7 +30,7 @@ I'm a passionate 6th semester Software Engineering student from Pakistan 🇵�
 
 ### ✨ Fun Facts
 - 💼 I love solving real problems with code and turning designs into functional systems
-- 🌱 Currently learning: Angular Routing, .NET Identity, C++ DSA, and Formal Methods
+- 🌱 Currently learning: Angular Routing, .NET Identity
 - 🔍 Interested in: UI/UX design, AI & ML, and full-stack architecture
 
 ---
