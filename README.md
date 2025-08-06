@@ -2,7 +2,7 @@
 
 ### 🎓 Software Engineering Student | 💻 Full-Stack Developer | 🌐 Tech Explorer
 
-I'm a passionate 6th semester Software Engineering student from Pakistan 🇵🇰. I specialize in building full-stack applications using the **MERN stack**, **ASP.NET Core**, and modern frontend frameworks like **Angular**. I'm also exploring **Machine Learning**, and love taking on real-world software challenges.
+I'm a passionate 7th semester Software Engineering student from Pakistan 🇵🇰. I specialize in building full-stack applications using the **MERN stack**, **ASP.NET Core**, and modern frontend frameworks like **Angular**. I'm also exploring **Machine Learning**, and love taking on real-world software challenges.
 
 ---
 
